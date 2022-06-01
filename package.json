@@ -1,6 +1,6 @@
 {
   "name": "@data-fair/processing-cog",
-  "version": "1.0.6",
+  "version": "0.0.0",
   "description": "Official Geographic Code of country into data-fair datasets",
   "main": "index.js",
   "scripts": {
