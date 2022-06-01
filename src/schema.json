@@ -1,0 +1,69 @@
+[
+    {
+        "key": "COG",
+        "title": "COG",
+        "description": "Code officiel geographiques du pays"
+    },
+    {
+        "key": "ACTUAL",
+        "title": "ACTUAL",
+        "description": "ACTUAL",
+        "x-labels": {
+            "1": "Actuel",
+            "2": "Périmé (dont le code a disparu du code officiel géographique)",
+            "3": "Territoire n'ayant pas son propre code officiel géographique",
+            "4": "Territoire ayant son propre code officiel géographique"
+        },
+        "enum": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "key": "CAPAY",
+        "title": "CAPAY",
+        "description": "Code officiel géographique de l'ancien pays de rattachement"
+    },
+    {
+        "key": "CRPAY",
+        "title": "CRPAY",
+        "description": "Code officiel géographique de l'actuel pays de rattachement"
+    },
+    {
+        "key": "ANI",
+        "title": "ANI",
+        "description": "Année d'indépendance du pays dans la mesure où celle-ci s'est produite après 1940."
+    },
+    {
+        "key": "LIBCOG",
+        "title": "LIBCOG",
+        "description": "Nom en majuscules non accentuées utilisé par l'Insee dans le Code Officiel Géographique."
+    },
+    {
+        "key": "LIBENR",
+        "title": "LIBENR",
+        "description": "Libellé du nom entier développé et enrichi paru au J.O. du 25 janvier 1994.Pour les pays et territoires n'y figurant pas, le nom utilisé est celui du Code Officiel Géographique."
+    },
+    {
+        "key": "ANCNOM",
+        "title": "ANCNOM",
+        "description": "Ancien nom porté par le pays, en majuscules non accentuées."
+    },
+    {
+        "key": "CODEISO2",
+        "title": "CODEISO2",
+        "description": "Code du pays sur 2 caractères conforme à la norme internationale ISO 3166 de représentation des noms de pays."
+    },
+    {
+        "key": "CODEISO3",
+        "title": "CODEISO3",
+        "description": "Code du pays sur 3 caractères conforme à la norme internationale ISO 3166 de représentation des noms de pays."
+    },
+    {
+        "key": "CODENUM3",
+        "title": "CODENUM3",
+        "description": "Code du pays à 3 chiffres conforme à la norme internationale ISO 3166 de représentation des noms de pays. "
+    }
+]
